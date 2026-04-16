@@ -1,4 +1,7 @@
 jadwal sim : 
+materi 1:
 - kontrak
 - pendahuluan
 - review basis data
+
+materi2
